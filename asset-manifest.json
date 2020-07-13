@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smartt/static/css/main.2cd0946e.chunk.css",
+    "main.js": "/smartt/static/js/main.f4f1ab67.chunk.js",
+    "main.js.map": "/smartt/static/js/main.f4f1ab67.chunk.js.map",
+    "runtime-main.js": "/smartt/static/js/runtime-main.87647f74.js",
+    "runtime-main.js.map": "/smartt/static/js/runtime-main.87647f74.js.map",
+    "static/js/2.a855146f.chunk.js": "/smartt/static/js/2.a855146f.chunk.js",
+    "static/js/2.a855146f.chunk.js.map": "/smartt/static/js/2.a855146f.chunk.js.map",
+    "index.html": "/smartt/index.html",
+    "precache-manifest.d5d3c89e978fb370a21f53c44dfa6ddc.js": "/smartt/precache-manifest.d5d3c89e978fb370a21f53c44dfa6ddc.js",
+    "service-worker.js": "/smartt/service-worker.js",
+    "static/css/main.2cd0946e.chunk.css.map": "/smartt/static/css/main.2cd0946e.chunk.css.map",
+    "static/js/2.a855146f.chunk.js.LICENSE.txt": "/smartt/static/js/2.a855146f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/smartt/static/media/201.88194f23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87647f74.js",
+    "static/js/2.a855146f.chunk.js",
+    "static/css/main.2cd0946e.chunk.css",
+    "static/js/main.f4f1ab67.chunk.js"
+  ]
+}
